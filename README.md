@@ -70,7 +70,7 @@ Want to know more about me? [Check out my portfolio.](https://juandespi.github.i
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
+<!-- 
 <details>
 <summary>More Skills</summary>
 <br>
@@ -108,7 +108,7 @@ Want to know more about me? [Check out my portfolio.](https://juandespi.github.i
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
-</details>
+</details> -->
 
 <br>
 
@@ -121,7 +121,6 @@ Want to know more about me? [Check out my portfolio.](https://juandespi.github.i
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=algolia&layout=compact&langs_count=8" />
 </p>
 
-<h3 align="center" > 🤝🏻 &nbsp;Contact 🤝🏻 &nbsp; </h3>
 <p align="center"> 
 <!--<a href="https://www.linkedin.com/in/john-despi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a> -->
   <!--<a href="https://www.codewars.com/users/thejuandespi"><img alt="LinkedIn" src="https://img.shields.io/badge/Codewars-Orchan%20Magramov-red?style=flat-square"></a> -->
