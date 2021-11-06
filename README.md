@@ -162,8 +162,8 @@ Check back at the top of the hour for a new quote!
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/OrchaniousS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrchaniousS&theme=algolia&show_icons=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/juandespi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juandespi&theme=algolia&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=algolia&layout=compact&langs_count=8" />
 </p>
 
