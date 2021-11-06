@@ -173,7 +173,7 @@ Check back at the top of the hour for a new quote!
   <!--<a href="https://www.codewars.com/users/thejuandespi"><img alt="LinkedIn" src="https://img.shields.io/badge/Codewars-Orchan%20Magramov-red?style=flat-square"></a> -->
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=juandespi&color=red&style=plastic&label=Profile+Visits">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=juandespi&color=3a98aa&style=flat&label=Profile+Visits">
     </a>
 </div>
 </p>
