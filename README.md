@@ -47,7 +47,7 @@ Want to know more about me? [Check out my portfolio.](https://juandespi.github.i
 </a> -->
 
 <a href="https://github.com/juandespi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juandespi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juandespi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Juan's GitHub Stats" />
 </a>
 
 <br>
@@ -128,7 +128,7 @@ Want to know more about me? [Check out my portfolio.](https://juandespi.github.i
   <!--<a href="https://www.codewars.com/users/thejuandespi"><img alt="LinkedIn" src="https://img.shields.io/badge/Codewars-Orchan%20Magramov-red?style=flat-square"></a> -->
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=juandespi&color=3a98aa&style=flat&label=Profile+Visits">
+        <img width="170px" src="https://komarev.com/ghpvc/?username=juandespi&color=3a98aa&style=flat&label=Profile+Visits">
     </a>
 </div>
 </p>
