@@ -33,7 +33,7 @@ Hey there 👋
 
 <!-- Want to know more about me? [Check out my portfolio.](https://juandespi.github.io/) -->
 
-<br>
+<!-- <br> -->
 <!-- <br>
 
 ## &#x1f4c8; GitHub Stats
@@ -110,7 +110,7 @@ Hey there 👋
 
 </details> -->
 
-<br>
+<!-- <br> -->
 
 
 ### ⚙️ &nbsp;GitHub Analytics
