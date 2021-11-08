@@ -36,22 +36,22 @@ Hey there 👋
 <!-- Want to know more about me? [Check out my portfolio.](https://juandespi.github.io/) -->
 
 <br>
-<br>
+<!-- <br>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
+<br> -->
 
 <!-- <a href="https://github.com/juandespi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandespi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
 
-<a href="https://github.com/juandespi">
+<!-- <a href="https://github.com/juandespi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juandespi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Juan's GitHub Stats" />
 </a>
 
 <br>
-<br>
+<br> -->
 
 <!-- ## 💼 Skills
 
