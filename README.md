@@ -125,8 +125,8 @@ Hey there 👋
 <!--<a href="https://www.linkedin.com/in/john-despi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a> -->
   <!--<a href="https://www.codewars.com/users/thejuandespi"><img alt="LinkedIn" src="https://img.shields.io/badge/Codewars-Orchan%20Magramov-red?style=flat-square"></a> -->
 <div align="center" style="margin: 40px 0; pointer-events: none">
-    <a>
-        <img width="170px" src="https://komarev.com/ghpvc/?username=juandespi&color=3a98aa&style=flat&label=Profile+Visits">
+    <a style="pointer-events: none">
+        <img width="170px" style="pointer-events: none" src="https://komarev.com/ghpvc/?username=juandespi&color=3a98aa&style=flat&label=Profile+Visits">
     </a>
 </div>
 </p>
